@@ -7,7 +7,7 @@ function Navbar() {
         <div className='flex items-center justify-between'>
             <a href='/'><img src={logo} /></a>
             <div className='flex space-x-6'>
-                <a href='/'>projects</a>
+                <a href='#projects'>projects</a>
                 <a href='#about'>about</a>
                 <a href='/'>contact</a>
             </div>
