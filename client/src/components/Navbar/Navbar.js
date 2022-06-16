@@ -3,7 +3,7 @@ import logo from './favicon.ico'
 
 function Navbar() {
   return (
-    <nav className="relative container mt-4 md:mx-auto">
+    <nav id='nav' className="relative container mt-4 md:mx-auto">
         <div className='flex items-center justify-between'>
             <a href='/'><img src={logo} /></a>
             <div className='flex space-x-6'>
