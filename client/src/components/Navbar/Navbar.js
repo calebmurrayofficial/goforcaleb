@@ -8,7 +8,7 @@ function Navbar() {
             <a href='/'><img src={logo} /></a>
             <div className='flex space-x-6'>
                 <a href='/'>projects</a>
-                <a href='/'>about</a>
+                <a href='#about'>about</a>
                 <a href='/'>contact</a>
             </div>
         </div>
